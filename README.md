@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **my portfolio : misscyborgdev**
+- 🔭 I’m currently working on **my portfolio**.
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js and Web Design (basics)**
 
 - 📫 How to reach me **misscyborgdev@gmail.com**  |  **<a href="www.linkedin.com/in/roxanne-perron-97170917b" target="blank">LinkedIn</a>**
 
