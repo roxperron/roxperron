@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 📫 How to reach me **misscyborgdev@gmail.com** <a href="www.linkedin.com/in/roxanne-perron-97170917b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roxanne perron" height="30" width="40" />
+- 📫 How to reach me **misscyborgdev@gmail.com** <a href="www.linkedin.com/in/roxanne-perron-97170917b" target="blank">
 
 
 
