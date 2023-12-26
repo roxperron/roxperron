@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/misscyborgdev" target="blank"><img align="center" src="https://github.com/roxperron" alt="misscyborgdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roxanne perron" target="blank"><img align="center" src="www.linkedin.com/in/roxanne-perron-97170917b" alt="roxanne perron" height="30" width="40" /></a>
+<a href="https://github.com/roxperron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="misscyborgdev" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/roxanne-perron-97170917b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roxanne perron" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
