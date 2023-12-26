@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roxanne Perron</h1>
 <h3 align="center">A passionate frontend developer from Québec,Canada.</h3>
 
+![README Image](https://github.com/roxperron/roxperron/blob/main/codingscreen.png)
+
+
+
+
 - 🔭 I’m currently working on **my portfolio : misscyborgdev**
 
 - 🌱 I’m currently learning **Vue.js**
