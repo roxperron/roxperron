@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roxanne Perron</h1>
-<h3 align="center">I am a quality assurance analyst with a passion for web development from Québec, Canada. Currently, I am a student in the front-end web development program at Cégep de Trois-Rivières, and I am expected to graduate in June 2024.</h3>
+<h3 align="center">I am a quality assurance analyst with a passion for web development from Québec, Canada. Currently, I am a student in the front-end web development program at "Cégep de Trois-Rivières", and I am expected to graduate in June 2024.</h3>
 
 ![README Image](https://github.com/roxperron/roxperron/blob/main/codingscreen.png)
 
