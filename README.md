@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vue.js and Web Design (basics)**.
 
-- 📫 How to reach me **roxanneperron11@gmail.com**  |  **<a href="www.linkedin.com/in/roxanne-perron-97170917b" target="blank">LinkedIn</a>**
+- 📫 How to reach me **roxanneperron11@gmail.com**  |  **<a href="www.linkedin.com/in/roxanne-perron-97170917b" target="blank">LinkedIn</a>**.
 
 
 
