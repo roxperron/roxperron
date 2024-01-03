@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my portfolio**.
 
-- 🌱 I’m currently learning **Vue.js and Web Design (basics)**.
+- 🌱 I'm currently learning **Vue.js and upgrading my JavaScript skills.**
 
 - 📫 How to reach me **roxanneperron11@gmail.com**  |  **<a href="www.linkedin.com/in/roxanne-perron-97170917b" target="blank">LinkedIn</a>**.
 
