@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **my portfolio**.
+- 🔭 I’m currently working on **<a href="https://github.com/roxperron/misscyborgdev">my portfolio</a>**.
 
 - 🌱 I'm currently learning **Vue.js and upgrading my JavaScript skills.**
 
