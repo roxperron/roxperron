@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **<a href="https://github.com/roxperron/misscyborgdev">my portfolio</a>**.
+- 🔭 I’m currently working on **<a href="https://github.com/roxperron/misscyborgdev">my portfolio</a> and upgrading my JavaScript skills.**
 
-- 🌱 I'm currently learning **Vue.js and upgrading my JavaScript skills.**
+<!-- - 🌱 I'm currently learning **Vue.js and upgrading my JavaScript skills.** -->
 
 - 📫 How to reach me **roxanneperron11@gmail.com**  |  **<a href="www.linkedin.com/in/roxanne-perron-97170917b" target="blank">LinkedIn</a>**.
 
