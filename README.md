@@ -6,8 +6,8 @@
 
 
 
-- 🔭 I’m currently, I'm doing an internship in test automation with TypeScript and Cypress at Vanderlande.**
-- 🌱 I'm currently, I'm improving my javascript skills with fullstack javascript with Threehouse.**.
+- 🔭 I'm doing an internship in test automation with TypeScript and Cypress at Vanderlande.
+- 🌱 I'm improving my javascript skills with fullstack javascript with Threehouse.
 - 📫 How to reach me **misscyborgdev@gmail.com**  |  **<a href="www.linkedin.com/in/roxanne-perron-97170917b" target="blank">LinkedIn</a>**.
 
 
