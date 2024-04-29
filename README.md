@@ -8,7 +8,7 @@
 
 - 🔭 I'm doing an internship in test automation with TypeScript and Cypress at Vanderlande.
 - 🌱 I'm improving my javascript skills with fullstack javascript at Threehouse.
-- :blue_book: I'm learning Tailwind .
+- :blue_book: I'm learning Tailwind.
 - 📫 How to reach me **misscyborgdev@gmail.com**  |  **<a href="www.linkedin.com/in/roxanne-perron-97170917b" target="blank">LinkedIn</a>**.
 
 
